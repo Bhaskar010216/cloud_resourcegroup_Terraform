@@ -26,7 +26,7 @@ subscription_id="34a1c0d5-ab81-462c-89db-795e1572cd70"
 }
 
 variable "rgname" {
-  default = "teraform-bhaskar-new"
+  default = "teraform-bhaskar-raj"
 }
 variable "location" {
   default = "West US 2"
